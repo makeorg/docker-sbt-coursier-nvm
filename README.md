@@ -1,7 +1,7 @@
 # docker-sbt-coursier-nvm
 
 Image with coursier + sbt and also nvm.
-It come with a the node version `v6.10.2` by default.
+It come with the latest `node` version, as defined in nvm.
 
 nvm is only installed for `root`
 
